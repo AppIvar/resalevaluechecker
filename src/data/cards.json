@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "base-set-charizard-psa-10",
+    "displayName": "Base Set Charizard (PSA 10)",
+    "pokemonName": "Charizard",
+    "set": "Base Set",
+    "number": "4",
+    "year": 1999,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "1999 Pokemon Base Set Charizard PSA 10"
+  },
+  {
+    "slug": "mega-charizard-x-ex-phantasmal-flames-psa-10",
+    "displayName": "Mega Charizard X ex (Phantasmal Flames PSA 10)",
+    "pokemonName": "Mega Charizard X ex",
+    "set": "Phantasmal Flames",
+    "number": "",
+    "year": 2025,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "Mega Charizard X ex Phantasmal Flames PSA 10"
+  },
+  {
+    "slug": "mega-lucario-ex-mega-evolution-psa-10",
+    "displayName": "Mega Lucario ex (Mega Evolution PSA 10)",
+    "pokemonName": "Mega Lucario ex",
+    "set": "Mega Evolution",
+    "number": "",
+    "year": 2025,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "Mega Lucario ex Mega Evolution PSA 10"
+  },
+  {
+    "slug": "mega-gengar-ex-phantasmal-flames-psa-10",
+    "displayName": "Mega Gengar ex (Phantasmal Flames PSA 10)",
+    "pokemonName": "Mega Gengar ex",
+    "set": "Phantasmal Flames",
+    "number": "",
+    "year": 2025,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "Mega Gengar ex Phantasmal Flames PSA 10"
+  },
+  {
+    "slug": "umbreon-ex-prismatic-evolutions-psa-10",
+    "displayName": "Umbreon ex (Prismatic Evolutions PSA 10)",
+    "pokemonName": "Umbreon ex",
+    "set": "Prismatic Evolutions",
+    "number": "",
+    "year": 2025,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "Umbreon ex Prismatic Evolutions PSA 10"
+  },
+  {
+    "slug": "latias-latios-team-up-psa-10",
+    "displayName": "Latias & Latios (Team Up PSA 10)",
+    "pokemonName": "Latias & Latios",
+    "set": "Team Up",
+    "number": "",
+    "year": 2019,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "Latias Latios Team Up PSA 10"
+  },
+  {
+    "slug": "bubble-mew-promo-psa-10",
+    "displayName": "Bubble Mew (Promo PSA 10)",
+    "pokemonName": "Mew",
+    "set": "Promo",
+    "number": "",
+    "year": 2002,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "Bubble Mew promo PSA 10"
+  },
+  {
+    "slug": "dark-charizard-team-rocket-psa-9",
+    "displayName": "Dark Charizard (Team Rocket PSA 9)",
+    "pokemonName": "Dark Charizard",
+    "set": "Team Rocket",
+    "number": "4",
+    "year": 2000,
+    "grade": "PSA 9",
+    "ebaySearchQuery": "Dark Charizard Team Rocket PSA 9 holo"
+  },
+  {
+    "slug": "lugia-neo-genesis-psa-9",
+    "displayName": "Lugia (Neo Genesis PSA 9)",
+    "pokemonName": "Lugia",
+    "set": "Neo Genesis",
+    "number": "9",
+    "year": 2000,
+    "grade": "PSA 9",
+    "ebaySearchQuery": "Lugia Neo Genesis PSA 9"
+  },
+  {
+    "slug": "deoxys-vmax-psa-10",
+    "displayName": "Deoxys VMAX (PSA 10)",
+    "pokemonName": "Deoxys VMAX",
+    "set": "Fusion Strike",
+    "number": "",
+    "year": 2021,
+    "grade": "PSA 10",
+    "ebaySearchQuery": "Deoxys VMAX PSA 10"
+  }
+]
